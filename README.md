@@ -9,3 +9,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 4. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/1679.%20Max%20Number%20of%20K-Sum%20Pairs.cpp">Max Number of K-Sum Pairs</a>
 5. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/225.%20Implement%20Stack%20using%20Queues.cpp">Implement Stack using Queues</a>
 6. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp">Remove All Adjacent Duplicates in String II</a>
+7. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/456.%20132%20Pattern.cpp">132 Pattern</a>
