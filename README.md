@@ -10,3 +10,5 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 5. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/225.%20Implement%20Stack%20using%20Queues.cpp">Implement Stack using Queues</a>
 6. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp">Remove All Adjacent Duplicates in String II</a>
 7. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/456.%20132%20Pattern.cpp">132 Pattern</a>
+8. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/341.%20Flatten%20Nested%20List%20Iterator.cpp">Flatten Nested List Iterator</a>
+9. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp">Letter Combinations of a Phone Number</a>
