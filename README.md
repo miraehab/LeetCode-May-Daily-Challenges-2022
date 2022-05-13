@@ -15,3 +15,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 10. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/216.%20Combination%20Sum%20III.cpp">Combination Sum III</a>
 11. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/1641.%20Count%20Sorted%20Vowel%20Strings.cpp">Count Sorted Vowel Strings</a>
 12. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/47.%20Permutations%20II.cpp">Permutations II</a>
+13. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/117.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.cpp">Populating Next Right Pointers in Each Node II</a>
