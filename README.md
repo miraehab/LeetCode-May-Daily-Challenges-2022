@@ -24,3 +24,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 19. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.cpp">Longest Increasing Path in a Matrix</a>
 20. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/63.%20Unique%20Paths%20II.cpp">Unique Paths II</a>
 21. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/322.%20Coin%20Change.cpp">Coin Change</a>
+22. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/647.%20Palindromic%20Substrings.cpp">Palindromic Substrings</a>
