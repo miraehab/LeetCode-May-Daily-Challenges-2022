@@ -28,3 +28,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 23. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/474.%20Ones%20and%20Zeroes.cpp">Ones and Zeroes</a>
 24. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/32.%20Longest%20Valid%20Parentheses.cpp">Longest Valid Parentheses</a>
 25. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/354.%20Russian%20Doll%20Envelopes.cpp">Russian Doll Envelopes</a>
+26. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/191.%20Number%20of%201%20Bits.cpp">Number of 1 Bits</a>
