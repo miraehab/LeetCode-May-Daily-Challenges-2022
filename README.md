@@ -30,3 +30,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 25. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/354.%20Russian%20Doll%20Envelopes.cpp">Russian Doll Envelopes</a>
 26. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/191.%20Number%20of%201%20Bits.cpp">Number of 1 Bits</a>
 27. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp">Number of Steps to Reduce a Number to Zero</a>
+28. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/268.%20Missing%20Number.cpp">Missing Number</a>
