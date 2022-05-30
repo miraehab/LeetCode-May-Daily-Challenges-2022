@@ -32,3 +32,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of May im
 27. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp">Number of Steps to Reduce a Number to Zero</a>
 28. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/268.%20Missing%20Number.cpp">Missing Number</a>
 29. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/318.%20Maximum%20Product%20of%20Word%20Lengths.cpp">Maximum Product of Word Lengths</a>
+30. <a href="https://github.com/miraehab/LeetCode-May-Daily-Challenges-2022/blob/main/29.%20Divide%20Two%20Integers.cpp">Divide Two Integers</a>
